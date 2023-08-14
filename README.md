@@ -6,7 +6,7 @@ Welcome to the Chess Game project! This is a simple Python console-based chess g
 
 1. 📥 Clone this repository to your local machine.
 2. 💻 Open a terminal and navigate to the project directory.
-3. ▶️ Run the `chess_game.py` file using the command: `python chess_game.py`.
+3. ▶️ Run the `chessgame.py` file using the command: `python chessgame.py`.
 4. 📜 Follow the on-screen instructions to input your moves and play the game.
 5. 🎉 Enjoy the game and have fun playing chess!
 
