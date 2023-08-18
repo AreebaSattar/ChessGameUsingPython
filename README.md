@@ -31,6 +31,4 @@ Welcome to the Chess Game project! This is a simple Python console-based chess g
 
 Contributions to the project are welcome! If you have any ideas for improvements or new features, feel free to fork this repository, make your changes, and submit a pull request. Let's make this game even better together! 🤝
 
----
 
-Have a great time playing chess with our console-based game! If you encounter any issues or have suggestions, feel free to [open an issue](https://github.com/yourusername/chess-game/issues). Your feedback is valuable! 💬🙌
